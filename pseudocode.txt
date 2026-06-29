@@ -1,0 +1,26 @@
+Activity 1
+Start
+Input num1
+Input num2
+Process sum = num1 + num2
+Display sum
+End
+
+Activity 2
+Start 
+Input score1
+Input score2
+Input score3
+Process average = score1 + score2 + score3
+Display average
+End
+
+Activity 3
+Start
+Input number
+If number MOD 2 = 0 then
+    Display "Even"
+Else
+    Display "Odd"
+End If
+End
